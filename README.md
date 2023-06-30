@@ -1,4 +1,4 @@
-**Hello there 👋, I'm Srushti Tikekar**
+### Hello there 👋, I'm Srushti Tikekar**
 
 - I'm a Graduate Stue
 
