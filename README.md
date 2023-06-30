@@ -19,7 +19,6 @@
 - Database: MySQL, Oracle, MongoDB
 - Programming Languages: Java, C++, Python
 
-  
 
 
 
