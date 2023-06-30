@@ -1,14 +1,21 @@
-### Hello there 👋, I'm Srushti Tikekar**
+**Hello there 👋, I'm Srushti Tikekar**
 
-- I'm a Graduate Stue
+- Currently :books:: MS Computer Science Student at Clemson School of Computing.
+- Previously: Senior Software Engineer - AIOps Engineer
+> **I'm Currently Working on**
 
-
-
-- 👋 Hi, I’m @srushtitikekar
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Machine Learning Models
+- Deep Learning
+- Data Mining
+- Pytorch
+- Python
+  
+> **I previously worked on**
+- AIOps Tools: Dynatrace, BMC Control-M, New Relic, Service Now
+- Testing Tools: TOSCA Automation, Manual Testing, Selenium, Jest
+- Database: MySQL, Oracle, MongoDB
+- Programming Languages: Java, C++, Python
+  
 
 <!---
 srushtitikekar/srushtitikekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
