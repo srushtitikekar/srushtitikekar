@@ -4,62 +4,88 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Srushti Tikekar - Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css"> <!-- Simple Line Icons -->
     <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> <!-- Bootstrap for styling -->
 </head>
 <body>
-    <header>
-        <h1>Srushti Tikekar</h1>
-        <h2>Artificial Intelligence Intern</h2>
-    </header>
-    <nav>
-        <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#experience">Experience</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#education">Education</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="#">Srushti Tikekar</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
     </nav>
-    <main>
-        <section id="about">
+
+    <header class="bg-primary text-white text-center py-5">
+        <div class="container">
+            <h1 class="font-weight-bold">Artificial Intelligence Intern</h1>
+            <!-- Add any additional content here -->
+        </div>
+    </header>
+
+    <main class="container py-5">
+        <section id="about" class="mb-5">
             <h2>About Me</h2>
             <p>Dedicated and highly skilled individual with a strong background in technical support engineering and application performance analysis. Passionate about leveraging technology to address complex challenges and eager to contribute to impactful projects that reshape business and society. Graduated with a Master's in Computer Science and possesses a deep understanding of artificial intelligence, machine learning, and deep learning.</p>
         </section>
-        <section id="experience">
+
+        <section id="experience" class="mb-5">
             <h2>Experience</h2>
-            <h3>Graduate Research Assistant - Clemson University</h3>
-            <p>Contributed to the research and development of novel methodologies for studying accessibility features for individuals with disabilities on smart devices within the Design and Research of In-Vehicle Experiences (DRIVE) Lab at Clemson University.</p>
-            <!-- Include other experiences as needed -->
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title">Graduate Research Assistant - Clemson University</h3>
+                    <p class="card-text">Contributed to the research and development of novel methodologies for studying accessibility features for individuals with disabilities on smart devices within the Design and Research of In-Vehicle Experiences (DRIVE) Lab at Clemson University.</p>
+                    <!-- Add more experience details if needed -->
+                </div>
+            </div>
         </section>
-        <section id="skills">
+
+        <section id="skills" class="mb-5">
             <h2>Skills</h2>
-            <ul>
-                <li>Algorithms</li>
-                <li>Python Programming</li>
-                <li>Machine Learning</li>
-                <!-- Include other skills as needed -->
+            <ul class="list-inline">
+                <li class="list-inline-item">Algorithms</li>
+                <li class="list-inline-item">Python Programming</li>
+                <li class="list-inline-item">Machine Learning</li>
+                <!-- Add more skills as needed -->
             </ul>
         </section>
-        <section id="projects">
+
+        <section id="projects" class="mb-5">
             <h2>Projects</h2>
-            <h3>BERT for Question-and-Answer Generation</h3>
-            <p>Designed a Bidirectional Encoder Representation from Transformer for generating answers for the question based on the input paragraph.</p>
-            <!-- Include other projects as needed -->
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title">BERT for Question-and-Answer Generation</h3>
+                    <p class="card-text">Designed a Bidirectional Encoder Representation from Transformer for generating answers for the question based on the input paragraph.</p>
+                    <!-- Add more project details if needed -->
+                </div>
+            </div>
         </section>
-        <section id="education">
+
+        <section id="education" class="mb-5">
             <h2>Education</h2>
             <p>Master's in Computer Science - Clemson University</p>
-            <!-- Include other education details as needed -->
+            <!-- Add more education details if needed -->
         </section>
+
         <section id="contact">
             <h2>Contact</h2>
             <p>Email: stikeka@g.clemson.edu</p>
-            <!-- Include other contact details as needed -->
+            <!-- Add more contact details if needed -->
         </section>
     </main>
-    <footer>
-        <p>&copy; 2024 Srushti Tikekar. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <p>&copy; 2024 Srushti Tikekar. All rights reserved
