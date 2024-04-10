@@ -1,6 +1,6 @@
 ##Video Caption Generation with LSTM/GRU and Attention
 
-![Video Caption Generation](video_caption_generation.png)
+![Video Caption Generation](Picture1.png)
 
 ## Problem Statement
 Developing an automated system for video caption generation, where given a short video as input, the system generates a descriptive caption that accurately depicts the content of the video. This task involves addressing several challenges including the variability in video attributes (such as objects and actions), the variable length of input/output sequences, and the need to produce coherent and relevant captions.
