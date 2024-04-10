@@ -1,4 +1,4 @@
-##Video Caption Generation with LSTM/GRU and Attention
+## Video Caption Generation with LSTM/GRU and Attention
 
 ![Video Caption Generation](Picture1.png)
 
