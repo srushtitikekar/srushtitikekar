@@ -1,5 +1,27 @@
 # 💫 About Me:
-Hello there 👋, I'm Srushti Tikekar.<br>Currently 📚: M.S. Computer Science Student at Clemson School of Computing.<br>Previously: Senior Software Engineer - AIOps Engineer<br>Hobbies: Swimming, Badminton, Travel<br>I'm Currently Working on<br><br>Machine Learning Models<br>Deep Learning<br>Data Mining<br>Pytorch<br>Python<br>I previously worked on<br><br>AIOps Tools: Dynatrace, BMC Control-M, New Relic, Service Now<br>Testing Tools: TOSCA Automation, Manual Testing, Selenium, Jest<br>Database: MySQL, Oracle, MongoDB<br>Programming Languages: Java, C++, Python
+👋 Hi there! I'm Srushti Tikekar, a passionate computer scientist with a keen interest in Information Retrieval and Machine Learning. Currently, I'm pursuing a Master of Science in Computer Science at Clemson University, where I'm focused on leveraging data analysis, text processing, and machine learning models to improve search quality and user experiences.
+
+## My Journey
+I hold a Post Graduate Certification in Artificial Intelligence and Machine Learning from Birla Institute of Technology & Science, Pilani, and a Bachelor's in Computer Engineering from the University of Pune. Throughout my academic career, I've maintained a strong GPA, reflecting my dedication and commitment to my studies.
+
+## Professional Experience
+My professional journey has taken me from being a Technical Support Engineer at Dynatrace to a Senior Software Engineer at Wipro Limited. At Wipro, I led initiatives to analyze application performance and improve user experiences across healthcare websites. Currently, as a Graduate Research Assistant at Clemson University, I'm developing methodologies to enhance accessibility features for individuals with disabilities.
+
+## Projects & Skills
+I love working on projects that challenge my skills and push the boundaries of technology. Some of my notable projects include developing a BERT-based Question-Answer model, creating a GAN for generating fake images, and designing a video caption generation system using LSTM and GRU.
+
+## My technical skills include:
+
+Advanced: Python, SQL, Data Visualization, Machine Learning
+Intermediate: Information Retrieval, Deep Learning, Statistical Data Analysis
+Beginner: C#, Pytorch
+## Achievements & Publications
+I'm proud to have been recognized as a top performer at Clemson's DRIVE Lab for my work on an adaptive user interface and as Rookie of the Quarter at Wipro Limited for achieving a perfect customer satisfaction rating. Additionally, I have published research on automated calorie estimation using food images in the International Journal of Emerging Technologies and Innovative Research.
+
+## Beyond Tech
+Outside of my professional and academic pursuits, I enjoy volunteering and have actively participated in various community projects through Lions Club International and EPIC, supporting education, environmental conservation, and inclusivity for individuals with special needs.
+
+
 
 
 ## 🌐 Socials:
