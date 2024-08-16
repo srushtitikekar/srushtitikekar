@@ -61,7 +61,3 @@ The dataset used in this analysis is imported from an Excel file (`Food_Orders.x
 ## Conclusion
 
 The User Trend Analysis project provides valuable insights into customer behavior in the online food delivery industry. By understanding these trends, businesses can make informed decisions to enhance services, optimize costs, and improve customer satisfaction. The statistical methods and models applied in this project offer a robust framework for analyzing similar datasets in other domains.
-
----
-
-This README provides a detailed overview of the project, its objectives, methodology, and key findings, making it suitable for anyone interested in understanding the scope and results of the User Trend Analysis.
