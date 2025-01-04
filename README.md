@@ -1,37 +1,50 @@
-# 💫 About Me:
-👋 Hi there! I'm Srushti Tikekar, a passionate AI and Machine Learning enthusiast with expertise in Python, deep learning, and scalable software design. Currently, I'm pursuing a Master of Science in Computer Science at Clemson University, where I am focused on applying advanced machine learning techniques to solve real-world problems.
+👋 Hi, I'm Srushti Tikekar
+🎓 Master's in Computer Science (Data Science & Informatics)
+📍 Based in Atlanta, GA | Open to relocation
 
-## My Journey
-I hold a Master of Science in Computer Science from Clemson University, where I've taken courses in Deep Learning, Information Retrieval, and Data Visualization. I also have a Bachelor of Engineering in Computer Engineering from Savitribai Phule Pune University. My academic journey is complemented by a Post Graduate Certification in Artificial Intelligence and Machine Learning from BITS Pilani.
+About Me
+I am a passionate Machine Learning Engineer and Generative AI Specialist with 3+ years of experience in AI, ML, and AIOps. My expertise spans developing scalable AI solutions, optimizing IT operations, and enhancing system efficiency across diverse domains, including healthcare and accessibility. I thrive at the intersection of innovation and problem-solving to deliver impactful business outcomes.
 
-## Professional Experience
-I have experience as a Graduate Research Assistant at Clemson University, where I've developed and scaled AI algorithms, achieving high accuracy in identifying user data patterns. Previously, I worked at Wipro Limited as a Senior Software Engineer, where I optimized application performance and developed custom monitoring solutions. My technical support role at Dynatrace further honed my skills in troubleshooting and data analysis.
+🌟 Core Expertise:
+AIOps | Generative AI | Machine Learning | Data Science | Cloud Technologies
+🌍 Mission: Driving innovation through AI-powered solutions for a better, smarter world.
+💻 Technical Skills
+Programming: Python, R, Java, SQL, JavaScript
+AI & ML Frameworks: TensorFlow, PyTorch, Hugging Face, Streamlit
+Generative AI: GANs, LangChain, Azure OpenAI
+Cloud & Big Data: AWS, Azure, Databricks, Hadoop, Docker, Kubernetes
+Visualization: Tableau, Power BI, D3.js, Matplotlib
+DevOps: Jenkins, CI/CD, Ansible
+Product Management: Agile Development, Automation
+📂 Highlighted Projects
+1️⃣ Generative Adversarial Networks (GANs)
+Objective: Enhanced realistic image generation for accessibility tools.
+Outcome: Improved QA accuracy by 20%.
+2️⃣ BERT for NLP Applications
+Objective: Fine-tuned BERT models for natural language understanding.
+Outcome: Enhanced text comprehension and analytics capabilities.
+3️⃣ LSTM/GRU Video Captioning
+Objective: Developed sequence-to-sequence models for video caption generation.
+Outcome: Created accurate, context-aware captions.
+🌟 Work Experience
+Data Scientist / Machine Learning Engineer
+MyUI.ai | Jan 2025 – Present
 
-## Projects & Skills
-I thrive on developing innovative solutions to complex problems. Some of my key projects include:
+Developed adaptive UX models for people with disabilities.
+Reduced processing time by 25% through scalable pipelines.
+Graduate Research Assistant
+Clemson University | May 2023 – Dec 2024
 
-- **Context-Aware Reinforced Recommendation System**: Developed a dynamic recommendation system that adjusts model parameters based on user feedback and contextual data.
-- **BERT for Question-Answering**: Fine-tuned a BERT model to generate accurate answers from input text.
-- **GANs for Image Generation**: Designed and implemented ACGAN, DCGAN, and WGAN models to generate high-quality images.
-- **Video Caption Generation**: Created a sequence-to-sequence model using RNNs (LSTM, GRU) to generate captions for videos.
+Fine-tuned GAN and BERT models for advanced AI research.
+Built interactive visualization tools for health policy analysis.
+Senior Software Engineer
+Wipro Limited | May 2021 – Mar 2022
 
-### My technical skills include:
-
-- **Advanced**: Python, SQL, Deep Learning, Machine Learning
-- **Intermediate**: NLP, Generative AI, Data Analysis, Docker, Kubernetes
-- **Beginner**: R, C++, Core Java
-
-## Achievements & Certifications
-I'm proud of my contributions to the AIOps core team at Wipro, where I was recognized as Rookie of the Quarter. My certifications include a Post Graduate Certification in AI & ML from BITS Pilani, Dynatrace Associate, and TOSCA Automation Specialist.
-
-## Beyond Tech
-I am actively involved in community service through NGOs like Nature Lovers Pune and Lions Club International, focusing on environmental conservation and supporting special needs education.
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/srushti7722) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srushti_tikekar) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-
+Improved healthcare app performance, reducing bottlenecks by 30%.
+🏆 Achievements
+Top Performer Award – Recognized for impactful AI research at Clemson.
+Breakthrough Talent Award – Exceptional results in healthcare AI projects at Wipro.
+📬 Contact Me
+🌐 LinkedIn
+✉️ Email: stikeka@g.clemson.edu
+🌟 GitHub
