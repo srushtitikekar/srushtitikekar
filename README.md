@@ -38,22 +38,6 @@ I am a passionate **Machine Learning Engineer** and **Generative AI Specialist**
 
 ---
 
-## 🌟 **Work Experience**
-- **Data Scientist / Machine Learning Engineer**  
-  *MyUI.ai* | Jan 2025 – Present  
-  - Developed adaptive UX models for people with disabilities.  
-  - Reduced processing time by 25% through scalable pipelines.
-
-- **Graduate Research Assistant**  
-  *Clemson University* | May 2023 – Dec 2024  
-  - Fine-tuned GAN and BERT models for advanced AI research.  
-  - Built interactive visualization tools for health policy analysis.
-
-- **Senior Software Engineer**  
-  *Wipro Limited* | May 2021 – Mar 2022  
-  - Improved healthcare app performance, reducing bottlenecks by 30%.
-
----
 
 ## 🏆 **Achievements**
 - *Top Performer Award* – Recognized for impactful AI research at Clemson.  
