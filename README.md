@@ -1,51 +1,91 @@
-# 👋 Hi, I'm **Srushti Tikekar**
+# 👋 Hi, I'm Srushti Tikekar
 
-🎓 Master's in Computer Science (Data Science & Informatics)  
-📍 Based in Atlanta, GA | Open to relocation  
+**AI & Cloud-Native Engineering | Observability & AIOps | Machine Learning | Generative AI**
 
-## About Me
-I am a passionate **Machine Learning Engineer** and **Generative AI Specialist** with 3+ years of experience in AI, ML, and AIOps. My expertise spans developing scalable AI solutions, optimizing IT operations, and enhancing system efficiency across diverse domains, including healthcare and accessibility. I thrive at the intersection of innovation and problem-solving to deliver impactful business outcomes.
+🎓 Master's in Computer Science — Data Science & Informatics, Clemson University  
+💼 Technical Support Engineer II @ Dynatrace  
+📍 United States | Open to Bay Area Opportunities
 
-- 🌟 **Core Expertise**:  
-  AIOps | Generative AI | Machine Learning | Data Science | Cloud Technologies  
-- 🌍 **Mission**: Driving innovation through AI-powered solutions for a better, smarter world.
+## 🚀 About Me
 
----
+I'm an engineering professional with **5+ years of experience** spanning cloud-native technologies, enterprise observability, AI/ML, and technical problem-solving.
 
-## 💻 **Technical Skills**
-- **Programming**: Python, R, Java, SQL, JavaScript  
-- **AI & ML Frameworks**: TensorFlow, PyTorch, Hugging Face, Streamlit  
-- **Generative AI**: GANs, LangChain, Azure OpenAI  
-- **Cloud & Big Data**: AWS, Azure, Databricks, Hadoop, Docker, Kubernetes  
-- **Visualization**: Tableau, Power BI, D3.js, Matplotlib  
-- **DevOps**: Jenkins, CI/CD, Ansible  
-- **Product Management**: Agile Development, Automation  
+Currently at **Dynatrace**, I work with complex distributed systems and enterprise cloud environments, troubleshooting performance challenges across **Kubernetes, microservices, AWS, Azure, and GCP**. My work focuses on root-cause analysis, observability-driven troubleshooting, and improving the reliability of production systems.
 
----
+With an academic and research background in **Machine Learning, Natural Language Processing, and Generative AI**, I'm particularly interested in bridging the gap between **AI innovation and real-world production engineering**.
 
-## 📂 **Highlighted Projects**
-### [1️⃣ Generative Adversarial Networks (GANs)](https://github.com/srushtitikekar/srushtitikekar/blob/main/Generative%20Adversarial%20Network/Readme_1.md)
-- **Objective**: Enhanced realistic image generation for accessibility tools.
-- **Outcome**: Improved QA accuracy by 20%.
+I'm passionate about building intelligent, scalable solutions that simplify complex technical challenges and create meaningful impact.
 
-### [2️⃣ BERT for NLP Applications](https://github.com/srushtitikekar/srushtitikekar/blob/main/BERT/Readme_.md)
-- **Objective**: Fine-tuned BERT models for natural language understanding.
-- **Outcome**: Enhanced text comprehension and analytics capabilities.
+### 🎯 Areas of Interest
 
-### [3️⃣ LSTM/GRU Video Captioning](https://github.com/srushtitikekar/srushtitikekar/blob/main/Video%20Caption%20Generation-%20seq2seq/readm.md)
-- **Objective**: Developed sequence-to-sequence models for video caption generation.
-- **Outcome**: Created accurate, context-aware captions.
+- **AI & Machine Learning:** Generative AI, NLP, Deep Learning, LLM Applications
+- **Cloud-Native Engineering:** Kubernetes, Distributed Systems, Microservices, Cloud Infrastructure
+- **Observability & AIOps:** Application Performance Monitoring, Distributed Tracing, Root-Cause Analysis, OpenTelemetry
+- **Engineering Solutions:** Technical Troubleshooting, Automation, Developer Experience, System Reliability
 
 ---
 
+## 💻 Technical Skills
 
-## 🏆 **Achievements**
-- *Top Performer Award* – Recognized for impactful AI research at Clemson.  
-- *Breakthrough Talent Award* – Exceptional results in healthcare AI projects at Wipro.
+**Programming & Data:** Python, Java, SQL, R, JavaScript
+
+**AI & Machine Learning:** PyTorch, TensorFlow, Hugging Face, LangChain, GANs, BERT, LSTM, GRU
+
+**Cloud & Infrastructure:** AWS, Azure, Google Cloud, Kubernetes, Docker, OpenShift
+
+**Observability & AIOps:** Dynatrace, OpenTelemetry, Distributed Tracing, Metrics & Log Analysis, APM, Root-Cause Analysis
+
+**DevOps & Automation:** CI/CD, Jenkins, Ansible, Automation, Git
+
+**Data & Visualization:** Databricks, Hadoop, Tableau, Power BI, Streamlit, Matplotlib, D3.js
 
 ---
 
-## 📬 **Contact Me**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/srushti-tikekar)  
-- ✉️ Email: stikeka@g.clemson.edu  
-- 🌟 [GitHub](https://github.com/srushtitikekar)  
+## 📂 Featured AI & ML Projects
+
+### 🧠 [Generative Adversarial Networks (GANs)](https://github.com/srushtitikekar/srushtitikekar/blob/main/Generative%20Adversarial%20Network/Readme_1.md)
+
+Explored deep learning architectures for realistic image generation, with applications in accessibility-focused technologies.
+
+- Applied generative modeling techniques to image synthesis.
+- Reported a **20% improvement in QA accuracy**.
+
+### 🤖 [BERT for Natural Language Processing](https://github.com/srushtitikekar/srushtitikekar/blob/main/BERT/Readme_.md)
+
+Developed NLP solutions using transformer-based language models.
+
+- Fine-tuned BERT for natural language understanding tasks.
+- Explored contextual language representations to improve text analytics.
+
+### 🎥 [Video Caption Generation using LSTM/GRU](https://github.com/srushtitikekar/srushtitikekar/blob/main/Video%20Caption%20Generation-%20seq2seq/readm.md)
+
+Built a sequence-to-sequence deep learning approach for automated video caption generation.
+
+- Applied LSTM and GRU architectures for sequential data processing.
+- Generated context-aware descriptions of video content.
+
+---
+
+## 🏆 Recognition
+
+🏅 **Top Performer Award — Clemson University**  
+Recognized for contributions and performance in AI research.
+
+🏅 **Breakthrough Talent Award — Wipro**  
+Recognized for contributions to healthcare-focused AI initiatives.
+
+---
+
+## 🌱 What I'm Exploring
+
+I'm particularly interested in the intersection of **Generative AI, intelligent observability, and cloud-native engineering**, including how AI can enhance production troubleshooting, automate root-cause analysis, and improve developer productivity.
+
+I enjoy connecting with engineers, researchers, and builders working on impactful AI-powered technologies.
+
+---
+
+## 📬 Let's Connect!
+
+💼 **LinkedIn:** [linkedin.com/in/srushti-tikekar](https://www.linkedin.com/in/srushti-tikekar)  
+💻 **GitHub:** [github.com/srushtitikekar](https://github.com/srushtitikekar)  
+📧 **Email:** srushti.tikekar@outlook.com
